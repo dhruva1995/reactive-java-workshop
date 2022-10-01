@@ -1,11 +1,7 @@
 package io.javabrains.reactiveworkshop;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
-
-import reactor.core.publisher.Mono;
 
 public class Exercise3 {
 
